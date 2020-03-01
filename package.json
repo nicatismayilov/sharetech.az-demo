@@ -1,0 +1,23 @@
+{
+  "name": "sharetech-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nicat_ismayilov/sharetech-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nicat_ismayilov/sharetech-demo/issues"
+  },
+  "homepage": "https://gitlab.com/nicat_ismayilov/sharetech-demo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
